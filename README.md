@@ -54,7 +54,7 @@
    ```
    - Use ```sudo apt remove brltty``` if /dev/tty/USB0 port is not visible after connecting to Husky.
 
-   - Optionally, you can plug a joystick and teleop the robot.
+   - Optionally, you can plug a joystick and teleop the robot where you can use LG and RB buttons together on the joystick to move the husky robot around.
 
 ## Docker
 
